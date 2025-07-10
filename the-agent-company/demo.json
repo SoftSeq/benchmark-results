@@ -1,5 +1,6 @@
 {
     "run_id": "7e873650-cd91-4d0d-aaa5-521",
+    "agent_run_id": "demo",
     "agent_version": "unknown",
     "timestamp_utc": "2025-07-09T16:55:20.554954+00:00",
     "overall_accuracy": 0.0,
@@ -7,27 +8,27 @@
     "wallclock_sec": 0,
     "total_estimated_cost_usd": 0,
     "total_tokens_used": 0,
-    "overall_score": 0,
+    "overall_score": 8,
     "max_score": 8,
     "tests_total": 2,
-    "tests_passed": 0,
+    "tests_passed": 2,
     "tests": {
         "admin-arrange-meeting-rooms": {
-            "score": 0,
+            "score": 2,
             "max_score": 2,
-            "checkpoints_passed": 0,
+            "checkpoints_passed": 2,
             "checkpoints_total": 2,
-            "iterations_check": 0,
-            "iterations_act": 0,
-            "iterations_hotl": 0
+            "iterations_check": 6,
+            "iterations_act": 3,
+            "iterations_hotl": 1
         },
         "admin-ask-for-meeting-feedback": {
-            "score": 0,
+            "score": 6,
             "max_score": 6,
-            "checkpoints_passed": 0,
+            "checkpoints_passed": 5,
             "checkpoints_total": 5,
-            "iterations_check": 0,
-            "iterations_act": 0,
+            "iterations_check": 2,
+            "iterations_act": 1,
             "iterations_hotl": 0
         }
     }

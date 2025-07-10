@@ -1,0 +1,75 @@
+{
+    "agent_run_id": "2025-07-10T18-08-37_ONLY_DO",
+    "total_cost": 0.2098825,
+    "total_tokens": 115942.0,
+    "total_deltatime": 181.71583400000003,
+    "accuracy": 0.0,
+    "total_score": 0.0,
+    "total_max_score": 20.0,
+    "total_checkpoints_passed": 0.0,
+    "total_checkpoints": 15.0,
+    "tests_passed": 0.0,
+    "total_tests": 5,
+    "tests": {
+        "admin-watch-video": {
+            "score": 0,
+            "max_score": 2,
+            "checkpoints_passed": 0,
+            "checkpoints": 1,
+            "agent_run_id": "2025-07-10T18-08-37_ONLY_DO",
+            "trace_id": "9411ca4d-a9e4-40b4-ba18-6e78b4a67ca5",
+            "total_cost": 0.0311975,
+            "total_tokens": 17566,
+            "public_link": "https://smith.langchain.com/public/c7784ab8-72cb-45c8-b48a-195a3d42b04d/r",
+            "deltatime": 31.839323
+        },
+        "admin-arrange-meeting-rooms": {
+            "score": 0,
+            "max_score": 2,
+            "checkpoints_passed": 0,
+            "checkpoints": 2,
+            "agent_run_id": "2025-07-10T18-08-37_ONLY_DO",
+            "trace_id": "489b5a46-24c2-4134-971d-09e38be668f7",
+            "total_cost": 0.03849,
+            "total_tokens": 17654,
+            "public_link": "https://smith.langchain.com/public/7126f7ba-94d1-40e3-87ef-a8c548cf35ec/r",
+            "deltatime": 28.085007
+        },
+        "admin-make-spreadsheet": {
+            "score": 0,
+            "max_score": 5,
+            "checkpoints_passed": 0,
+            "checkpoints": 4,
+            "agent_run_id": "2025-07-10T18-08-37_ONLY_DO",
+            "trace_id": "5209493d-78c6-4a95-b457-22478abbf105",
+            "total_cost": 0.0323575,
+            "total_tokens": 18157,
+            "public_link": "https://smith.langchain.com/public/ccec81fa-c9a1-4935-a7cf-6cefb8bd95f6/r",
+            "deltatime": 31.665903
+        },
+        "admin-employee-info-reconciliation": {
+            "score": 0,
+            "max_score": 7,
+            "checkpoints_passed": 0,
+            "checkpoints": 5,
+            "agent_run_id": "2025-07-10T18-08-37_ONLY_DO",
+            "trace_id": "74482ce3-712b-487a-9fdf-829f4b26562f",
+            "total_cost": 0.0652675,
+            "total_tokens": 39280,
+            "public_link": "https://smith.langchain.com/public/0be9af41-2533-480b-a0b8-8bce7771a14f/r",
+            "deltatime": 57.731448
+        },
+        "admin-check-employees-budget-and-reply-2": {
+            "score": 0,
+            "max_score": 4,
+            "checkpoints_passed": 0,
+            "checkpoints": 3,
+            "agent_run_id": "2025-07-10T18-08-37_ONLY_DO",
+            "trace_id": "3a35c346-a854-4b6b-9eba-93449f490097",
+            "total_cost": 0.04257,
+            "total_tokens": 23285,
+            "public_link": "https://smith.langchain.com/public/9da6570f-4e74-469e-a9d9-8e6b9abcff33/r",
+            "deltatime": 32.394153
+        }
+    }
+}

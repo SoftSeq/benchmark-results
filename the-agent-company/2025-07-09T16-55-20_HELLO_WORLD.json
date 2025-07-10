@@ -1,5 +1,6 @@
 {
     "run_id": "7e873650-cd91-4d0d-aaa5-52aa608a3241",
+    "agent_run_id": "2025-07-09T16-55-20_HELLO_WORLD",
     "agent_version": "unknown",
     "timestamp_utc": "2025-07-09T16:55:20.554954+00:00",
     "overall_accuracy": 0.0,

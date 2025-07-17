@@ -1,0 +1,27 @@
+{
+    "agent_run_id": "2025-07-10T17-16-00_",
+    "total_cost": 0.03255,
+    "total_tokens": 14077.0,
+    "total_deltatime": 30.894942,
+    "accuracy": 0.0,
+    "total_score": 0.0,
+    "total_max_score": 2.0,
+    "total_checkpoints_passed": 0.0,
+    "total_checkpoints": 2.0,
+    "tests_passed": 0.0,
+    "total_tests": 1,
+    "tests": {
+        "admin-arrange-meeting-rooms": {
+            "score": 0,
+            "max_score": 2,
+            "checkpoints_passed": 0,
+            "checkpoints": 2,
+            "agent_run_id": "2025-07-10T17-16-00_",
+            "trace_id": "7a42f95c-c8c1-489c-9f97-2ea64bc7a420",
+            "total_cost": 0.03255,
+            "total_tokens": 14077,
+            "public_link": "https://smith.langchain.com/public/c4a2ca7f-a6eb-4fc4-92e3-180efe9a524c/r",
+            "deltatime": 30.894942
+        }
+    }
+}
